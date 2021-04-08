@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Created by Xin Snowflakes, 09225205353
+# Created by Binary Korra, 09225205353
 # Modified RAM Compression Bash File for Raspberry Pi and Windows on ARM
 # This was originally written by NovaSpirit
 
