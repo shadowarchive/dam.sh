@@ -1,8 +1,12 @@
 #!/bin/bash
 
-# Created by Binary Korra, 09225205353
+# Digital Access Memory - (DAM, otherwise known as Digital Asset Miner)
+
+# Created by Binary Kore, 09225205353
 # Modified RAM Compression Bash File for Raspberry Pi and Windows on ARM
 # This was originally written by NovaSpirit
+
+
 
 # Instructions:
 # sudo chmod +x /root/dam.sh
